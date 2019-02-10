@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.alanbasso.myapplication.controlador.MainActivity">
+
+    <item
+        android:id="@+id/action_newExit"
+        android:orderInCategory="100"
+        android:title="@string/controle"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_culturas"
+        android:orderInCategory="100"
+        android:title="@string/action_culturas"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/action_dados"
+        android:orderInCategory="100"
+        android:title="@string/dados"
+        app:showAsAction="never" />
+</menu>

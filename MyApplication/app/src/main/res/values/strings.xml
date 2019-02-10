@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Hortifruti Controle</string>
+    <string name="action_culturas">Culturas</string>
+    <string name="title_activity_cultura">CulturaActivity</string>
+    <string name="salvar">Salvar</string>
+    <string name="controle">Nova Saída</string>
+    <string name="title_activity_empresas">EmpresasActivity</string>
+    <string name="nome">Nome</string>
+    <string name="action_empresas">Empresas</string>
+    <string name="title_activity_dados">DadosActivity</string>
+    <string name="dados">Listagem de Dados</string>
+    <string name="data">Data:</string>
+    <string name="quantidade">Quantidade:</string>
+    <string name="qtde_miudo">Qtde Miudo:</string>
+    <string name="empresa">Empresa:</string>
+    <string name="escolha_a_data">Escolha a data</string>
+    <string name="cultura">Cultura</string>
+    <string name="digite_o_nome_do_dono">Digite o nome do dono</string>
+    <string name="listagem_saida">Listagem de Saídas</string>
+
+
+</resources>

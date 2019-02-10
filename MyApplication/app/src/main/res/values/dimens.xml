@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="tres_dips">3dp</dimen>
+    <dimen name="seis_dips">6dp</dimen>
+</resources>
